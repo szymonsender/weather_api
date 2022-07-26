@@ -1,16 +1,11 @@
-# weather_api
+# Weather app
 
-A new Flutter project.
+The app allows us to check how much it is in degrees in a given city, it also shows what country it is, the date and the current time.
 
-## Getting Started
+The app uses an API call from weatherstack.
 
-This project is a starting point for a Flutter application.
+## Gif
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/87803016/181040688-ba6a1fd9-fffc-4765-a72b-036331a2daef.gif" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
